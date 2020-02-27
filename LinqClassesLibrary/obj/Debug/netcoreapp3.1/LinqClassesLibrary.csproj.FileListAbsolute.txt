@@ -1,0 +1,16 @@
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\DotNET_Play\LinqClassesLibrary\bin\Debug\netcoreapp3.1\LinqClassesLibrary.deps.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\DotNET_Play\LinqClassesLibrary\bin\Debug\netcoreapp3.1\LinqClassesLibrary.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\DotNET_Play\LinqClassesLibrary\bin\Debug\netcoreapp3.1\LinqClassesLibrary.pdb
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.csprojAssemblyReference.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.AssemblyInfoInputs.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.AssemblyInfo.cs
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.pdb
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\bin\Debug\netcoreapp3.1\LinqClassesLibrary.deps.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\bin\Debug\netcoreapp3.1\LinqClassesLibrary.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\bin\Debug\netcoreapp3.1\LinqClassesLibrary.pdb
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.csprojAssemblyReference.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.AssemblyInfoInputs.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.AssemblyInfo.cs
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.pdb
