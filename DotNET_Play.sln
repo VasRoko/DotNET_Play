@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{365FF5A0-E800-45DA-B8AB-6E3B8150C9C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqClassesLibrary", "LinqClassesLibrary\LinqClassesLibrary.csproj", "{FF558AB7-7FD7-4560-9269-4352DF6F8398}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqClassesLibrary", "LinqClassesLibrary\LinqClassesLibrary.csproj", "{FF558AB7-7FD7-4560-9269-4352DF6F8398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Features", "Features\Features.csproj", "{5D783DEE-1D25-4282-AADF-A51DF1529F97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FF558AB7-7FD7-4560-9269-4352DF6F8398}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF558AB7-7FD7-4560-9269-4352DF6F8398}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF558AB7-7FD7-4560-9269-4352DF6F8398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D783DEE-1D25-4282-AADF-A51DF1529F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D783DEE-1D25-4282-AADF-A51DF1529F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D783DEE-1D25-4282-AADF-A51DF1529F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D783DEE-1D25-4282-AADF-A51DF1529F97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

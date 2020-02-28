@@ -1,0 +1,11 @@
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\bin\Debug\netcoreapp3.1\Features.exe
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.dev.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\bin\Debug\netcoreapp3.1\Features.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\bin\Debug\netcoreapp3.1\Features.pdb
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\obj\Debug\netcoreapp3.1\Features.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Features\obj\Debug\netcoreapp3.1\Features.pdb

@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace LinqClassesLibrary
 {
-    public class LibraryClasses
+    public class LibraryLinq
     {
         public FileInfo[] ShowLargeFilesWithoutLinq(string path)
         {

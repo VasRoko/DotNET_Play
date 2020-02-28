@@ -9,7 +9,7 @@ namespace Linq
     {
         public static void Main(string[] args)
         {
-            LibraryClasses library = new LibraryClasses();
+            LibraryLinq library = new LibraryLinq();
             string path = @"C:\windows";
             var files = library.ShowLargeFilesWithoutLinq(path);
             var filesLinq = library.ShowLargeFilesWithLinq(path);
