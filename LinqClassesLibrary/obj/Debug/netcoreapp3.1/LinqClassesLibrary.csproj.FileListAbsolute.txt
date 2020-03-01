@@ -14,3 +14,12 @@ C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\obj\Debug\
 C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.AssemblyInfo.cs
 C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.dll
 C:\Projects_Personal\DotNET_Playground\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.pdb
+D:\projects\projects_personal\DotNET_Play\LinqClassesLibrary\bin\Debug\netcoreapp3.1\LinqClassesLibrary.deps.json
+D:\projects\projects_personal\DotNET_Play\LinqClassesLibrary\bin\Debug\netcoreapp3.1\LinqClassesLibrary.dll
+D:\projects\projects_personal\DotNET_Play\LinqClassesLibrary\bin\Debug\netcoreapp3.1\LinqClassesLibrary.pdb
+D:\projects\projects_personal\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.csprojAssemblyReference.cache
+D:\projects\projects_personal\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.csproj.CoreCompileInputs.cache
+D:\projects\projects_personal\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.AssemblyInfoInputs.cache
+D:\projects\projects_personal\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.AssemblyInfo.cs
+D:\projects\projects_personal\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.dll
+D:\projects\projects_personal\DotNET_Play\LinqClassesLibrary\obj\Debug\netcoreapp3.1\LinqClassesLibrary.pdb
