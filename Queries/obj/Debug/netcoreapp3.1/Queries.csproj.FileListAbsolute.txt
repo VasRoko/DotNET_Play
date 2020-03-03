@@ -11,3 +11,17 @@ D:\projects\projects_personal\DotNET_Play\Queries\obj\Debug\netcoreapp3.1\Querie
 D:\projects\projects_personal\DotNET_Play\Queries\obj\Debug\netcoreapp3.1\Queries.dll
 D:\projects\projects_personal\DotNET_Play\Queries\obj\Debug\netcoreapp3.1\Queries.pdb
 D:\projects\projects_personal\DotNET_Play\Queries\obj\Debug\netcoreapp3.1\Queries.genruntimeconfig.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\bin\Debug\netcoreapp3.1\Queries.exe
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\bin\Debug\netcoreapp3.1\Queries.deps.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.dev.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\bin\Debug\netcoreapp3.1\Queries.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\bin\Debug\netcoreapp3.1\Queries.pdb
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\obj\Debug\netcoreapp3.1\Queries.csprojAssemblyReference.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfoInputs.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfo.cs
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\obj\Debug\netcoreapp3.1\Queries.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\obj\Debug\netcoreapp3.1\Queries.pdb
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\bin\Debug\netcoreapp3.1\LinqClassesLibrary.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\bin\Debug\netcoreapp3.1\LinqClassesLibrary.pdb
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.CopyComplete

@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqClassesLibrary", "LinqC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Features", "Features\Features.csproj", "{5D783DEE-1D25-4282-AADF-A51DF1529F97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queries", "Queries\Queries.csproj", "{237A0048-3BEC-42F0-9147-87FDF0ABE24D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queries", "Queries\Queries.csproj", "{237A0048-3BEC-42F0-9147-87FDF0ABE24D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linq.Practices", "Linq.Practices", "{FCB5AAA0-9BE6-4040-AB74-DE61ABB1BCDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +38,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{365FF5A0-E800-45DA-B8AB-6E3B8150C9C0} = {FCB5AAA0-9BE6-4040-AB74-DE61ABB1BCDA}
+		{FF558AB7-7FD7-4560-9269-4352DF6F8398} = {FCB5AAA0-9BE6-4040-AB74-DE61ABB1BCDA}
+		{5D783DEE-1D25-4282-AADF-A51DF1529F97} = {FCB5AAA0-9BE6-4040-AB74-DE61ABB1BCDA}
+		{237A0048-3BEC-42F0-9147-87FDF0ABE24D} = {FCB5AAA0-9BE6-4040-AB74-DE61ABB1BCDA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9DE507E-D535-4E91-A05B-E49E3967D776}
