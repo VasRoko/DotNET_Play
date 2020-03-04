@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "CSVProj/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/CSVProj.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CSVProj.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "CSVProj/1.0.0": {
-      "type": "project",
-      "path": "../CSVProj/CSVProj.csproj",
-      "msbuildProject": "../CSVProj/CSVProj.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "CSVProj >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Vasyl.Rokochuk\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\LinqClassesLibrary\\LinqClassesLibrary.csproj",
-      "projectName": "LinqClassesLibrary",
-      "projectPath": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\LinqClassesLibrary\\LinqClassesLibrary.csproj",
+      "projectUniqueName": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\CSVProj\\CSVProj.csproj",
+      "projectName": "CSVProj",
+      "projectPath": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\CSVProj\\CSVProj.csproj",
       "packagesPath": "C:\\Users\\Vasyl.Rokochuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\LinqClassesLibrary\\obj\\",
+      "outputPath": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\CSVProj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -56,11 +37,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\CSVProj\\CSVProj.csproj": {
-              "projectPath": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\CSVProj\\CSVProj.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -2,9 +2,22 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "CSVProj/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CSVProj.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CSVProj.dll": {}
+        }
+      },
       "LinqClassesLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CSVProj": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/LinqClassesLibrary.dll": {}
         },
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "CSVProj/1.0.0": {
+      "type": "project",
+      "path": "../CSVProj/CSVProj.csproj",
+      "msbuildProject": "../CSVProj/CSVProj.csproj"
+    },
     "LinqClassesLibrary/1.0.0": {
       "type": "project",
       "path": "../LinqClassesLibrary/LinqClassesLibrary.csproj",

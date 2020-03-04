@@ -1,0 +1,12 @@
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\CSVProj.exe
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\CSVProj.deps.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\CSVProj.runtimeconfig.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\CSVProj.runtimeconfig.dev.json
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\CSVProj.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\CSVProj.pdb
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.csprojAssemblyReference.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.AssemblyInfoInputs.cache
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.AssemblyInfo.cs
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.dll
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.pdb
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\fuel.csv
