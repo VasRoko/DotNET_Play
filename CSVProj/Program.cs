@@ -23,7 +23,7 @@ namespace CSVProj
         {
             return File.ReadAllLines(path).Skip(1).Where(line => line.Length > 1).Select(c => c).ToCar();
         }
-    }
+    } 
 
     public static class MyExtensions
     {
