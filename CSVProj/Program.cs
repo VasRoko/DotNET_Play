@@ -14,17 +14,30 @@ namespace CSVProj
             var manufacturers = ProcessFile<Manufacturer>("manufacturers.csv");
 
             var query = from car in cars
+                        join manufacturer in manufacturers on car.Division equals manufacturer.Name
+                        orderby car.Comb descending
                         select new
                         {
+                            manufacturer.Headquarters,
                             car.Carline,
                             car.Comb,
                             car.Division,
                         };
-            
-            foreach (var car in query.Take(10))
+            var queryFun = cars.Join(manufacturers, c => c.Division, m => m.Name, (c, m) => new
             {
-                Console.WriteLine($"{car.Division}:{car.Carline} : {car.Comb}");
-                Console.WriteLine("----------------------------");
+                m.Headquarters,
+                c.Carline,
+                c.Comb,
+                c.Division,
+            }).OrderByDescending(c => c.Comb).ThenBy(c => c.Carline);
+            
+            foreach (var car in queryFun.Take(20))
+            {
+                Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
+                Console.WriteLine($" Manufacturer HQ: {car.Headquarters}");
+                Console.WriteLine($" Car Info: {car.Division} : {car.Carline}");
+                Console.WriteLine($" Fuel Efficiency: {car.Comb}");
+                Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
             }
         }
 
