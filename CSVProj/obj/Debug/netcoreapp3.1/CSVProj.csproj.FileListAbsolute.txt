@@ -10,3 +10,4 @@ C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\obj\Debug\netcoreapp3
 C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.dll
 C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.pdb
 C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\fuel.csv
+C:\Projects_Personal\DotNET_Playground\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\manufacturers.csv

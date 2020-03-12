@@ -5,12 +5,12 @@ namespace CSVProj
     public class Car
     {
         public int Year { get; set; }
+        public string Division { get; set; }
+        public string Carline { get; set; }
+        public double Displ { get; set; }
+        public int Cyl { get; set; }
         public int City { get; set; }
-        public int Highway { get; set; }
-        public string Name { get; set; }
-        public int Combined { get; set; }
-        public int Cylinders { get; set; }
-        public string Manufacturer { get; set; }
-        public double Displacement { get; set; }
+        public int Hwy { get; set; }
+        public int Comb { get; set; }
     }
 }
