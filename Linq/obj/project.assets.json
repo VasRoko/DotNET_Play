@@ -45,23 +45,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vasyl.Rokochuk\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\vasro\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\Linq\\Linq.csproj",
+      "projectUniqueName": "D:\\projects\\projects_personal\\DotNET_Play\\Linq\\Linq.csproj",
       "projectName": "Linq",
-      "projectPath": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\Linq\\Linq.csproj",
-      "packagesPath": "C:\\Users\\Vasyl.Rokochuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\Linq\\obj\\",
+      "projectPath": "D:\\projects\\projects_personal\\DotNET_Play\\Linq\\Linq.csproj",
+      "packagesPath": "C:\\Users\\vasro\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\projects_personal\\DotNET_Play\\Linq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Vasyl.Rokochuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vasro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -75,8 +75,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\LinqClassesLibrary\\LinqClassesLibrary.csproj": {
-              "projectPath": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\LinqClassesLibrary\\LinqClassesLibrary.csproj"
+            "D:\\projects\\projects_personal\\DotNET_Play\\LinqClassesLibrary\\LinqClassesLibrary.csproj": {
+              "projectPath": "D:\\projects\\projects_personal\\DotNET_Play\\LinqClassesLibrary\\LinqClassesLibrary.csproj"
             }
           }
         }
@@ -104,7 +104,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200-preview-015002\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Vasyl.Rokochuk\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\vasro\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\Features\\Features.csproj",
+      "projectUniqueName": "D:\\projects\\projects_personal\\DotNET_Play\\Features\\Features.csproj",
       "projectName": "Features",
-      "projectPath": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\Features\\Features.csproj",
-      "packagesPath": "C:\\Users\\Vasyl.Rokochuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects_Personal\\DotNET_Playground\\DotNET_Play\\Features\\obj\\",
+      "projectPath": "D:\\projects\\projects_personal\\DotNET_Play\\Features\\Features.csproj",
+      "packagesPath": "C:\\Users\\vasro\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\projects_personal\\DotNET_Play\\Features\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Vasyl.Rokochuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vasro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200-preview-015002\\RuntimeIdentifierGraph.json"
       }
     }
   }
