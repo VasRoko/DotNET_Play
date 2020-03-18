@@ -13,37 +13,64 @@ namespace CSVProj
             var cars = ProcessFile<Car>("fuel.csv");
             var manufacturers = ProcessFile<Manufacturer>("manufacturers.csv");
 
-            var query = from car in cars
-                        join manufacturer in manufacturers on new { car.Division, car.Year }  
-                        equals 
-                        new { Division = manufacturer.Name, manufacturer.Year }
-                        orderby car.Comb descending
-                        select new
-                        {
-                            manufacturer.Headquarters,
-                            car.Carline,
-                            car.Comb,
-                            car.Division, 
-                        };
-            var queryFun = cars.Join(manufacturers, 
-                c => new { c.Division, c.Year}, 
-                m => new { Division = m.Name, m.Year }, 
-                (c, m) => new
+            var queryGroupJoin = from manufacturer in manufacturers
+                                 join car in cars on manufacturer.Name equals car.Division
+                                 into carGroup
+                                 select new
+                                 {
+                                     Manufacturer = manufacturer,
+                                     cars = carGroup,
+                                 } into result
+                                 group result by result.Manufacturer.Headquarters;
+
+            //var query = from car in cars
+            //            group car by car.Division.ToUpper() into m
+            //            orderby m.Key ascending select m;
+            //var query2 = cars.GroupBy(c => c.Division.ToUpper()).OrderBy(m => m.Key);
+
+            foreach (var item in queryGroupJoin)
             {
-                m.Headquarters,
-                c.Carline,
-                c.Comb,
-                c.Division,
-            }).OrderByDescending(c => c.Comb).ThenBy(c => c.Carline);
-            
-            foreach (var car in queryFun.Take(20))
-            {
-                Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
-                Console.WriteLine($" Manufacturer HQ: {car.Headquarters}");
-                Console.WriteLine($" Car Info: {car.Division} : {car.Carline}");
-                Console.WriteLine($" Fuel Efficiency: {car.Comb}");
-                Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
+                Console.WriteLine("--------------------------------");
+                Console.WriteLine($"{item.Key}");
+                Console.WriteLine("--------------------------------");
+                foreach (var car in item.SelectMany(g => g.cars.OrderByDescending(c => c.Comb)))
+                {
+                    Console.WriteLine($"\t{car.Carline} : {car.Comb}");
+                }
             }
+
+            // combining two sources of data
+            //var query = from car in cars
+            //            join manufacturer in manufacturers on new { car.Division, car.Year }  
+            //            equals 
+            //            new { Division = manufacturer.Name, manufacturer.Year }
+            //            orderby car.Comb descending
+            //            select new
+            //            {
+            //                manufacturer.Headquarters,
+            //                car.Carline,
+            //                car.Comb,
+            //                car.Division, 
+            //            };
+            //var queryFun = cars.Join(manufacturers, 
+            //    c => new { c.Division, c.Year}, 
+            //    m => new { Division = m.Name, m.Year }, 
+            //    (c, m) => new
+            //{
+            //    m.Headquarters,
+            //    c.Carline,
+            //    c.Comb,
+            //    c.Division,
+            //}).OrderByDescending(c => c.Comb).ThenBy(c => c.Carline);
+            
+            //foreach (var car in query.Take(20))
+            //{
+            //    Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
+            //    Console.WriteLine($" Manufacturer HQ: {car.Headquarters}");
+            //    Console.WriteLine($" Car Info: {car.Division} : {car.Carline}");
+            //    Console.WriteLine($" Fuel Efficiency: {car.Comb}");
+            //    Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
+            //}
         }
 
         public static IEnumerable<T> ProcessFile<T>(string path) where T : class, new()
@@ -126,6 +153,35 @@ namespace CSVProj
             var typeInstance = Activator.CreateInstance(typeof(T));
             var typeProps = typeInstance.GetType().GetProperties();
             return CreateType<T>(typeProps, csvLine, headerLine);
+        }
+
+        public static IEnumerable<T> RemoveDuplicates<T>(this IEnumerable<T> source)
+        {
+            HashSet<T> returnSource = new HashSet<T>(new ObjectComparer<T>());
+            foreach (var item in source)
+            {
+                if (source.Contains(item))
+                {
+                    returnSource.Add(item);
+                }
+            }
+            return returnSource;
+        }
+
+        public class ObjectComparer<T> : IEqualityComparer<T>
+        {
+            public bool Equals(T x, T y)
+            {
+                var xName = x.GetType().GetProperty("Division").GetValue(x);
+                var yName = y.GetType().GetProperty("Division").GetValue(y);
+
+                return String.Equals(xName, yName);
+            }
+
+            public int GetHashCode(T obj)
+            {
+                return obj.GetType().GetProperty("Division").GetValue(obj).GetHashCode();
+            }
         }
     }
 }
