@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using static CSVProj.MyExtensions;
 
 namespace CSVProj
 {
@@ -23,20 +24,46 @@ namespace CSVProj
                                  } into result
                                  group result by result.Manufacturer.Headquarters;
 
+            var queryAggregation = from car in cars
+                                   group car by car.Carline into carGroup
+                                   select new
+                                   {
+                                       Name = carGroup.Key,
+                                       Max = carGroup.Max(c => c.Comb),
+                                       Min = carGroup.Min(c => c.Comb),
+                                       Avg = carGroup.Average(c => c.Comb)
+                                   } into result orderby result.Max descending select result;
+
+            var queryAggregationFun = cars.GroupBy(c => c.Carline).Select(g =>
+            {
+                var result = g.Aggregate(new CarStatisctics(), (acc, c) => acc.Accumulate(c), acc => acc.Compute());
+                return new
+                {
+                    Name = g.Key,
+                    Avg = result.Avg,
+                    Min = result.Min,
+                    Max = result.Max,
+                };
+            }).OrderByDescending(r => r.Max);
+
             //var query = from car in cars
             //            group car by car.Division.ToUpper() into m
             //            orderby m.Key ascending select m;
             //var query2 = cars.GroupBy(c => c.Division.ToUpper()).OrderBy(m => m.Key);
-
-            foreach (var item in queryGroupJoin)
+             
+            foreach (var item in queryAggregationFun)
             {
                 Console.WriteLine("--------------------------------");
-                Console.WriteLine($"{item.Key}");
+                Console.WriteLine($"{item.Name}");
+                Console.WriteLine($"\tMax: \t{item.Max}");
+                Console.WriteLine($"\tMin: \t{item.Min}");
+                Console.WriteLine($"\tAvg: \t{item.Avg}");
+
                 Console.WriteLine("--------------------------------");
-                foreach (var car in item.SelectMany(g => g.cars.OrderByDescending(c => c.Comb)))
+                /* foreach (var car in item.SelectMany(g => g.cars.OrderByDescending(c => c.Comb)))
                 {
                     Console.WriteLine($"\t{car.Carline} : {car.Comb}");
-                }
+                } */
             }
 
             // combining two sources of data
@@ -154,7 +181,6 @@ namespace CSVProj
             var typeProps = typeInstance.GetType().GetProperties();
             return CreateType<T>(typeProps, csvLine, headerLine);
         }
-
         public static IEnumerable<T> RemoveDuplicates<T>(this IEnumerable<T> source)
         {
             HashSet<T> returnSource = new HashSet<T>(new ObjectComparer<T>());
@@ -167,7 +193,7 @@ namespace CSVProj
             }
             return returnSource;
         }
-
+        // ----------------------------------------------------------------------------------- //
         public class ObjectComparer<T> : IEqualityComparer<T>
         {
             public bool Equals(T x, T y)
@@ -183,5 +209,35 @@ namespace CSVProj
                 return obj.GetType().GetProperty("Division").GetValue(obj).GetHashCode();
             }
         }
+        public class CarStatisctics
+        {
+            public CarStatisctics()
+            {
+                Max = Int32.MinValue;
+                Min = Int32.MaxValue;
+
+            }
+            public int Total { get; set; }
+            public int Max { get; set; }
+            public int Min { get; set; }
+            public int Count { get; set; }
+            public double Avg { get; set; }
+
+            public CarStatisctics Accumulate(Car c)
+            {
+                Count += 1;
+                Total += c.Comb;
+                Max = Math.Max(Max, c.Comb);
+                Min = Math.Min(Min, c.Comb);
+
+                return this;
+            }
+
+            public CarStatisctics Compute()
+            {
+                Avg = Total / Count;
+                return this;
+            }
+        };
     }
 }
