@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\projects_personal\\DotNET_Play\\Nodes\\Nodes.csproj",
-      "projectName": "Nodes",
-      "projectPath": "D:\\projects\\projects_personal\\DotNET_Play\\Nodes\\Nodes.csproj",
+      "projectUniqueName": "D:\\projects\\projects_personal\\DotNET_Play\\Nodes\\LinkedListPrc.csproj",
+      "projectName": "LinkedListPrc",
+      "projectPath": "D:\\projects\\projects_personal\\DotNET_Play\\Nodes\\LinkedListPrc.csproj",
       "packagesPath": "C:\\Users\\vasro\\.nuget\\packages\\",
       "outputPath": "D:\\projects\\projects_personal\\DotNET_Play\\Nodes\\obj\\",
       "projectStyle": "PackageReference",
