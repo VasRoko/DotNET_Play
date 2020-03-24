@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "CSVProj/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/CSVProj.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CSVProj.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "CSVProj/1.0.0": {
-      "type": "project",
-      "path": "../CSVProj/CSVProj.csproj",
-      "msbuildProject": "../CSVProj/CSVProj.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "CSVProj >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\vasro\\.nuget\\packages\\": {},
@@ -56,11 +37,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "D:\\projects\\projects_personal\\DotNET_Play\\CSVProj\\CSVProj.csproj": {
-              "projectPath": "D:\\projects\\projects_personal\\DotNET_Play\\CSVProj\\CSVProj.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

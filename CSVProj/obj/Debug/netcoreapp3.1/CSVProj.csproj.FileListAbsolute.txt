@@ -26,3 +26,6 @@ D:\projects\projects_personal\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVPro
 D:\projects\projects_personal\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.dll
 D:\projects\projects_personal\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.pdb
 D:\projects\projects_personal\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.genruntimeconfig.cache
+D:\projects\projects_personal\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\LinqClassesLibrary.dll
+D:\projects\projects_personal\DotNET_Play\CSVProj\bin\Debug\netcoreapp3.1\LinqClassesLibrary.pdb
+D:\projects\projects_personal\DotNET_Play\CSVProj\obj\Debug\netcoreapp3.1\CSVProj.csproj.CopyComplete

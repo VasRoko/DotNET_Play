@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "CSVProj/1.0.0": {
+        "dependencies": {
+          "LinqClassesLibrary": "1.0.0"
+        },
         "runtime": {
           "CSVProj.dll": {}
+        }
+      },
+      "LinqClassesLibrary/1.0.0": {
+        "runtime": {
+          "LinqClassesLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CSVProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinqClassesLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,13 @@
+D:\projects\projects_personal\DotNET_Play\Nodes\bin\Debug\netcoreapp3.1\Nodes.exe
+D:\projects\projects_personal\DotNET_Play\Nodes\bin\Debug\netcoreapp3.1\Nodes.deps.json
+D:\projects\projects_personal\DotNET_Play\Nodes\bin\Debug\netcoreapp3.1\Nodes.runtimeconfig.json
+D:\projects\projects_personal\DotNET_Play\Nodes\bin\Debug\netcoreapp3.1\Nodes.runtimeconfig.dev.json
+D:\projects\projects_personal\DotNET_Play\Nodes\bin\Debug\netcoreapp3.1\Nodes.dll
+D:\projects\projects_personal\DotNET_Play\Nodes\bin\Debug\netcoreapp3.1\Nodes.pdb
+D:\projects\projects_personal\DotNET_Play\Nodes\obj\Debug\netcoreapp3.1\Nodes.csprojAssemblyReference.cache
+D:\projects\projects_personal\DotNET_Play\Nodes\obj\Debug\netcoreapp3.1\Nodes.csproj.CoreCompileInputs.cache
+D:\projects\projects_personal\DotNET_Play\Nodes\obj\Debug\netcoreapp3.1\Nodes.AssemblyInfoInputs.cache
+D:\projects\projects_personal\DotNET_Play\Nodes\obj\Debug\netcoreapp3.1\Nodes.AssemblyInfo.cs
+D:\projects\projects_personal\DotNET_Play\Nodes\obj\Debug\netcoreapp3.1\Nodes.dll
+D:\projects\projects_personal\DotNET_Play\Nodes\obj\Debug\netcoreapp3.1\Nodes.pdb
+D:\projects\projects_personal\DotNET_Play\Nodes\obj\Debug\netcoreapp3.1\Nodes.genruntimeconfig.cache

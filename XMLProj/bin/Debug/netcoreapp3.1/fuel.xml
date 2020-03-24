@@ -1,0 +1,6028 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car>
+    <Name>4C</Name>
+    <Manufacturer>ALFA ROMEO</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>V12 Vantage S</Name>
+    <Manufacturer>Aston Martin Lagonda Ltd</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>V8 Vantage</Name>
+    <Manufacturer>Aston Martin Lagonda Ltd</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>V8 Vantage</Name>
+    <Manufacturer>Aston Martin Lagonda Ltd</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>V8 Vantage S</Name>
+    <Manufacturer>Aston Martin Lagonda Ltd</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>V8 Vantage S</Name>
+    <Manufacturer>Aston Martin Lagonda Ltd</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Vantage GT</Name>
+    <Manufacturer>Aston Martin Lagonda Ltd</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Vantage GT</Name>
+    <Manufacturer>Aston Martin Lagonda Ltd</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>TT Roadster quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>M4 GTS</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Z4 sDrive28i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Z4 sDrive28i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Z4 sDrive35i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Z4 sDrive35is</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>CORVETTE</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>CORVETTE</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>CORVETTE</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>CORVETTE</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Viper SRT</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>488 GTB</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>488 GTB</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>F12</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>F12</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>F12 tdf</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>F12 tdf</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>F60 America</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>F60 America</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>CR-Z</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>36</City>
+  </Car>
+  <Car>
+    <Name>CR-Z</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE Convertible</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE Convertible Manual</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE Coupe</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE Coupe Manual</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE R AWD Convertible</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE R AWD Coupe</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE R Convertible</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE S AWD Convertible</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE S AWD Coupe</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE S Convertible</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE S Convertible Manual</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE S Coupe</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>F-TYPE S Coupe Manual</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Aventador Coupe</Name>
+    <Manufacturer>Lamborghini</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>Aventador Roadster</Name>
+    <Manufacturer>Lamborghini</Manufacturer>
+    <City>10</City>
+  </Car>
+  <Car>
+    <Name>Huracan</Name>
+    <Manufacturer>Lamborghini</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Huracan Spyder</Name>
+    <Manufacturer>Lamborghini</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>MX-5</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>MX-5</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>570S Coupe</Name>
+    <Manufacturer>McLaren</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>650S Coupe</Name>
+    <Manufacturer>McLaren</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>650S Spider</Name>
+    <Manufacturer>McLaren</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>675LT Coupe</Name>
+    <Manufacturer>McLaren</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>AMG GT S</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>AMG SL 63</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>AMG SL 65</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>AMG SLK 55</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>SL 400</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>SL 550</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>SLK 300</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>SLK 350</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Smart fortwo (COUPE)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>34</City>
+  </Car>
+  <Car>
+    <Name>Smart fortwo (COUPE)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>32</City>
+  </Car>
+  <Car>
+    <Name>370Z</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>370Z</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>370Z Roadster</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>370Z Roadster</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Huayra Coupe</Name>
+    <Manufacturer>Pagani Automobili S.p.A.</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>911 GT3</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>911 GT3RS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Boxster</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Boxster</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Boxster GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Boxster GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Boxster S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Boxster S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Boxster Spyder</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Cayman</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Cayman</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Cayman GT4</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Cayman GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Cayman GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Cayman S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Cayman S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>DB9</Name>
+    <Manufacturer>Aston Martin Lagonda Ltd</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Vanquish</Name>
+    <Manufacturer>Aston Martin Lagonda Ltd</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>California T</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>California T</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>500</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>500</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>500</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>500</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>500 Abarth</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>500 Abarth</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper Convertible</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper Convertible</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Convertible</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Convertible</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4 Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4 Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4 GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4 GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4 GTS Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4 GTS Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4S Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera 4S Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera GTS Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera GTS Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera S Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Carrera S Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Targa 4</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>911 Targa 4</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Targa 4 GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Targa 4 GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Targa 4S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Targa 4S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>911 Turbo</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>911 Turbo Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>911 Turbo S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>911 Turbo S Cabriolet</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>FR-S</Name>
+    <Manufacturer>SCION</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>FR-S</Name>
+    <Manufacturer>SCION</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>BRZ</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>BRZ</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Rapide S</Name>
+    <Manufacturer>Aston Martin Lagonda Ltd</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>A3</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>A3 Cabriolet</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>A3 Cabriolet quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>A3 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>A5 Cabriolet quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>A5 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>A5 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>S3</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>S5</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>S5</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>S5 Cabriolet</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>TT Coupe quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>TTS Coupe</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Continental GT Convertible</Name>
+    <Manufacturer>Bentley</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Continental GT Convertible</Name>
+    <Manufacturer>Bentley</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>228i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>228i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>228i Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>228i xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>228i xDrive Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>428i Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>428i xDrive Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>435i Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>435i xDrive Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>640i Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>640i Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>640i xDrive Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>640i xDrive Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>650i Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>650i Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>650i xDrive Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>650i xDrive Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>M2</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>M2</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>M235i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>M235i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>M235i Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>M235i Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>M235i xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>M235i xDrive Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>M4 Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>M4 Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>M6 Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>M6 Convertible</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>M6 Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>M6 Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>CASCADA</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>SPARK</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>SPARK</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>Fiesta FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Fiesta FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Fiesta SFE FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>MUSTANG</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>MUSTANG</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>MUSTANG</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>MUSTANG</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>MUSTANG</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>MUSTANG</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>MUSTANG CONVERTIBLE</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>MUSTANG CONVERTIBLE</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>SHELBY GT350 MUSTANG</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Genesis Coupe</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Genesis Coupe</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>RC 200t</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>RC 300 AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>RC 350</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>RC 350 AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>RC F</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>GRANTURISMO</Name>
+    <Manufacturer>MASERATI</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>GRANTURISMO CONVERTIBLE</Name>
+    <Manufacturer>MASERATI</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>E 400 (convertible)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>E 400 (coupe)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>E 400 4MATIC (coupe)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>E 550 (convertible)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>E 550 (coupe)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>MINI COOPER HARDTOP 2 DOOR</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>MINI COOPER HARDTOP 2 DOOR</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>MINI COOPER HARDTOP 4 DOOR</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>MINI COOPER HARDTOP 4 DOOR</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Hardtop 2 door</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Hardtop 2 door</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Hardtop 4 door</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Hardtop 4 door</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>MINI John Cooper Works Hardtop</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>MINI John Cooper Works Hardtop</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>GT-R</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Roush Stage 3 Mustang</Name>
+    <Manufacturer>Roush</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Roush Stage 3 Mustang</Name>
+    <Manufacturer>Roush</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>iA</Name>
+    <Manufacturer>SCION</Manufacturer>
+    <City>33</City>
+  </Car>
+  <Car>
+    <Name>iA</Name>
+    <Manufacturer>SCION</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>Beetle Convertible</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Beetle Convertible</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Beetle Convertible</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Eos</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>ILX</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>TLX 2WD</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>TLX 2WD</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>TLX 4WD</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>A4</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>A4 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>A4 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Q3</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Q3 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>S4</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>S4</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Continental GT</Name>
+    <Manufacturer>Bentley</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Continental GT</Name>
+    <Manufacturer>Bentley</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>320i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>320i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>320i xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>328d</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>32</City>
+  </Car>
+  <Car>
+    <Name>328d xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>328i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>328i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>328i xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>340i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>340i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>340i xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>340i xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>428i Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>428i Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>428i Gran Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>428i xDrive Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>428i xDrive Gran Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>435i Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>435i Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>435i Gran Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>435i xDrive Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>435i xDrive Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>435i xDrive Gran Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>640i Gran Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>640i xDrive Gran Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>650i Gran Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>650i xDrive Gran Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Alpina B6 Gran Coupe xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>M3</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>M3</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>M4 Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>M4 Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>M6 Gran Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>M6 Gran Coupe</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>VERANO</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>VERANO</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>VERANO</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>ATS</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>ATS</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>ATS</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>ATS</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>ATS AWD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>ATS AWD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>ATS-V</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>ATS-V</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>CAMARO</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>CAMARO</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>CAMARO</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>CAMARO</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>CAMARO</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>CAMARO</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>CRUZE</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>CRUZE</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>CRUZE PREMIER</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>SONIC</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>SONIC</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>SONIC</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>SONIC</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>SONIC RS</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>SONIC RS</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Fiesta ST FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>FOCUS FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>FOCUS FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>FOCUS FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>FOCUS FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>FOCUS FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Focus FWD FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Focus FWD FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Focus FWD FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>CIVIC 2Dr</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>CIVIC 2Dr</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>CIVIC 2Dr</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Accent</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Accent</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Veloster</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Veloster</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Veloster</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Veloster</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Q50 HYBRID</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Q50 HYBRID AWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Forte Koup</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Forte Koup</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Forte Koup</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Forte Koup</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Rio</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Rio</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Rio ECO</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>CT 200h</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>43</City>
+  </Car>
+  <Car>
+    <Name>GS F</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>IS 200t</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>IS 300 AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>IS 350</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>IS 350 AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>CX-3 2WD</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>CX-3 4WD</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>MAZDA 2</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>33</City>
+  </Car>
+  <Car>
+    <Name>MAZDA 2</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>MAZDA3 4-Door</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>MAZDA3 4-Door</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>MAZDA3 4-Door</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>MAZDA3 4-Door</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>MAZDA3 4-Door</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>AMG C 63</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>AMG C 63 S</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>AMG CLA 45 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>AMG CLS 63 S 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>AMG S 63 4MATIC (coupe)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>AMG S 65 (coupe)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>C 300</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>C 300 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>C 450 AMG</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>CLA 250</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>CLA 250 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>CLA 250 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>CLS 400</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>CLS 400 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>CLS 550</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>CLS 550 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>S 550 4MATIC (coupe)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper Countryman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper Countryman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper Paceman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper Paceman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Countryman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Countryman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Countryman All4</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Countryman All4</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Paceman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Paceman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Paceman ALL4</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Paceman ALL4</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Mini JCW Countryman ALL4</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Mini JCW Countryman ALL4</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Mini JCW Paceman ALL4</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Mini JCW Paceman ALL4</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>LANCER</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>LANCER</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>LANCER</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>LANCER</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>LANCER 4WD</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>VERSA</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>VERSA</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>VERSA</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Dawn</Name>
+    <Manufacturer>Rolls-Royce Motor Cars Limited</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>Phantom Coupe</Name>
+    <Manufacturer>Rolls-Royce Motor Cars Limited</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>Phantom Drophead Coupe</Name>
+    <Manufacturer>Rolls-Royce Motor Cars Limited</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>tC</Name>
+    <Manufacturer>SCION</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>tC</Name>
+    <Manufacturer>SCION</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>IMPREZA</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>IMPREZA</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>WRX</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>WRX</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>WRX</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>PRIUS c</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>53</City>
+  </Car>
+  <Car>
+    <Name>YARIS</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>YARIS</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>Beetle</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Beetle</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Beetle</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Beetle</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Beetle Dune</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>CC</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>CC</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>CC 4Motion</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Golf</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Golf</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Golf R</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Golf R</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>GTI</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>GTI</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Jetta</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Jetta</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Jetta</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Jetta</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Jetta</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Jetta</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Jetta Hybrid</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>42</City>
+  </Car>
+  <Car>
+    <Name>S60 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>S60 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>S60 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>S60 CC AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>S60 FWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>S60 FWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>S60 Inscription AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>S60 Inscription FWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>S60 Polestar AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>RLX</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>RLX</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>A6</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>A6 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>A6 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>A6 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>A7 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>A7 quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>RS7</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>S6</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>S7</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>S8</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Flying Spur</Name>
+    <Manufacturer>Bentley</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Flying Spur</Name>
+    <Manufacturer>Bentley</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>Mulsanne</Name>
+    <Manufacturer>Bentley</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>528i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>528i xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>535d</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>535d xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>535i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>535i xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>550i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>550i xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>ActiveHybrid 5</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>M5</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>M5</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>LACROSSE</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>LACROSSE</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>LACROSSE</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>LACROSSE AWD</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>REGAL</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>REGAL</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>REGAL</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>REGAL</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>REGAL AWD</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>CTS SEDAN</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>CTS SEDAN</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>CTS SEDAN</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>CTS SEDAN AWD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>CTS SEDAN AWD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>CTS-V</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>CRUZE LIMITED</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>CRUZE LIMITED</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>CRUZE LIMITED</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>CRUZE LIMITED</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>CRUZE LIMITED ECO</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>CRUZE LIMITED ECO</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Impala Bi-Fuel (CNG)</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>MALIBU</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>MALIBU</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>47</City>
+  </Car>
+  <Car>
+    <Name>MALIBU</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>MALIBU LIMITED</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>SONIC 5 RS</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>SONIC 5 RS</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>200</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>200</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>200</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>200 AWD</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Challenger</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Challenger</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Challenger</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Challenger</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Challenger</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Challenger SRT8</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Challenger SRT8</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Challenger SRT8</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Challenger SRT8</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Dart</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Dart</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Dart</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Dart</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Dart</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Dart Aero</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Dart Aero</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Dart GT</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Dart GT</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>FF</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>FF</Name>
+    <Manufacturer>Ferrari</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>FOCUS RS AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Focus ST FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>FUSION AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>FUSION FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>FUSION FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>FUSION FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>FUSION FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>FUSION HYBRID FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>44</City>
+  </Car>
+  <Car>
+    <Name>ACCORD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>ACCORD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>ACCORD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>ACCORD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>ACCORD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>ACCORD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>CIVIC 4Dr</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>CIVIC 4Dr</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>CIVIC 4Dr</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Elantra</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Elantra</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Elantra</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Elantra</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Elantra GT</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Elantra GT</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Elantra Limited</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>Sonata HYBRID</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>39</City>
+  </Car>
+  <Car>
+    <Name>Sonata HYBRID SE</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>40</City>
+  </Car>
+  <Car>
+    <Name>Q50</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Q50</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Q50 AWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Q50 AWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Q50S</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Q50S AWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Q50S AWD Red Sport</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Q50S Red Sport</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Q70</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Q70</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Q70 AWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Q70 AWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Q70 HYBRID</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>XF</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>XF AWD</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Forte</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Forte</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Forte</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Optima HYBRID</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>36</City>
+  </Car>
+  <Car>
+    <Name>Optima HYBRID EX</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>35</City>
+  </Car>
+  <Car>
+    <Name>ES 300h</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>40</City>
+  </Car>
+  <Car>
+    <Name>ES 350</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>GS 200t</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>GS 200t F SPORT</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>GS 350</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>GS 350 AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>GS 350 F SPORT</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>GS 450h</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>LS 460</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>LS 460 AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>LS 460 L</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>LS 460 L AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>LS 600h L</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>MKZ AWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>MKZ AWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>MKZ FWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>MKZ FWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>MKZ HYBRID FWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>41</City>
+  </Car>
+  <Car>
+    <Name>Ghibli  S RWD</Name>
+    <Manufacturer>MASERATI</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Ghibli V6 Rear Wheel Drive (RWD)</Name>
+    <Manufacturer>MASERATI</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Ghibli V6 SQ4 AWD</Name>
+    <Manufacturer>MASERATI</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>MAZDA 6</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>MAZDA 6</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>MAZDA 6</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>MAZDA3 5-Door</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>MAZDA3 5-Door</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>MAZDA3 5-Door</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>MAZDA3 5-Door</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>MAZDA3 5-Door</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>AMG E 63 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>AMG E 63 S 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>E 250 BLUETEC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>E 250 BLUETEC 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>E 350</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>E 350</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>E 350 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>E 350 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>E 400</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>E 400 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>E 550 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper Clubman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper Clubman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Clubman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Mini Cooper S Clubman</Name>
+    <Manufacturer>Mini</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>ALTIMA</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>ALTIMA 3.5</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>ALTIMA SR</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>MAXIMA</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>SENTRA</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>SENTRA</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>SENTRA FE+</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>Wraith</Name>
+    <Manufacturer>Rolls-Royce Motor Cars Limited</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>iM</Name>
+    <Manufacturer>SCION</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>iM</Name>
+    <Manufacturer>SCION</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>LEGACY</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>LEGACY</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>AVALON</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>AVALON HYBRID</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>40</City>
+  </Car>
+  <Car>
+    <Name>CAMRY</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>CAMRY</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>CAMRY HYBRID LE</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>43</City>
+  </Car>
+  <Car>
+    <Name>CAMRY HYBRID XLE/SE</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>40</City>
+  </Car>
+  <Car>
+    <Name>COROLLA</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>COROLLA</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>COROLLA</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>COROLLA</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>COROLLA LE ECO</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>COROLLA LE ECO</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>PRIUS</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>54</City>
+  </Car>
+  <Car>
+    <Name>PRIUS Eco</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>58</City>
+  </Car>
+  <Car>
+    <Name>Passat</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Passat</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>S80 FWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>A8L</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>A8L</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>A8L</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>A8L</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>328i xDrive Gran Turismo</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>335i xDrive Gran Turismo</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>535i Gran Turismo</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>535i xDrive Gran Turismo</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>740i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>750i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>750i xDrive</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>X1 xDrive28i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>CT6</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>CT6 AWD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>CT6 AWD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>XTS</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>XTS AWD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>XTS AWD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>IMPALA</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>IMPALA</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>IMPALA</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>IMPALA LIMITED</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>SS</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>SS</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>300</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>300</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>300</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>300 AWD</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>300 AWD</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Charger</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Charger</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Charger</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Charger</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Charger AWD</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Charger AWD</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Charger SRT8</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Charger SRT8</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>C-MAX Hybrid FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>42</City>
+  </Car>
+  <Car>
+    <Name>Special Service Police FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>TAURUS AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>TAURUS AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>TAURUS AWD FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>TAURUS FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>TAURUS FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>TAURUS FWD FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Azera</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Azera Limited</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Equus</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Genesis AWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Genesis RWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Genesis RWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Sonata</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Sonata</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Sonata</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Sonata Limited</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Sonata SPORT/LIMITED</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>XJ</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>XJ</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>XJ AWD</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>XJL</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>XJL</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>XJL AWD</Name>
+    <Manufacturer>Jaguar</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Cadenza</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Forte 5</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Forte 5</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Forte 5</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>K900</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>K900</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Optima</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>Optima</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Optima</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Optima FE</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Optima FE</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>MKS AWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>MKS AWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>MKS FWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>QUATTROPORTE GTS</Name>
+    <Manufacturer>MASERATI</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>QUATTROPORTE S</Name>
+    <Manufacturer>MASERATI</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>QUATTROPORTE SQ4 V6</Name>
+    <Manufacturer>MASERATI</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>AMG S 63 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>AMG S 65</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Maybach S 600</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>S 550</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>S 550 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>S 600</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Panamera</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Panamera 4</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Panamera 4S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Panamera 4S Executive</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Panamera GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Panamera S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Panamera Turbo</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Panamera Turbo Executive</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Panamera Turbo S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Panamera Turbo S Executive</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Ghost</Name>
+    <Manufacturer>Rolls-Royce Motor Cars Limited</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Ghost EWB</Name>
+    <Manufacturer>Rolls-Royce Motor Cars Limited</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Phantom</Name>
+    <Manufacturer>Rolls-Royce Motor Cars Limited</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>Phantom EWB</Name>
+    <Manufacturer>Rolls-Royce Motor Cars Limited</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>allroad quattro</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>328d xDrive Sports Wagon</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>328i xDrive Sports Wagon</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>SONIC 5</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>SONIC 5</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>SONIC 5</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>SONIC 5</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>500L</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>500L</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>FIT</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>33</City>
+  </Car>
+  <Car>
+    <Name>FIT</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>32</City>
+  </Car>
+  <Car>
+    <Name>FIT</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>29</City>
+  </Car>
+  <Car>
+    <Name>QX50</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>QX50 AWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Soul</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Soul</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Soul</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Soul ECO dynamics</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>JUKE</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>JUKE</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>JUKE AWD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>JUKE NISMO RS</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>JUKE NISMO RS AWD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>IMPREZA SPORT</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>IMPREZA SPORT</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>IMPREZA WAGON</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>IMPREZA WAGON</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Golf SportWagen</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Golf SportWagen</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>V60 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>V60 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>V60 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>V60 FWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>V60 Polestar AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>V60CC AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>AMG E 63 S 4MATIC (stat. wagon)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>AMG GLA 45 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>E 350 4Matic (Wagon)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>GLA 250</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>MURANO AWD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>MURANO FWD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>MURANO Hybrid AWD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>MURANO Hybrid FWD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>PRIUS v</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>44</City>
+  </Car>
+  <Car>
+    <Name>COLORADO 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>COLORADO 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>COLORADO 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>COLORADO 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>CANYON 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>CANYON 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>CANYON 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>CANYON 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>FRONTIER 2WD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>FRONTIER 2WD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>FRONTIER 2WD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>FRONTIER 2WD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>TACOMA 2WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>TACOMA 2WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>COLORADO 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>COLORADO 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>COLORADO 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>CANYON 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>CANYON 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>CANYON 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>FRONTIER 4WD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>FRONTIER 4WD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>TACOMA 4WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>TACOMA 4WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>TACOMA 4WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>TACOMA 4WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Tacoma 4WD Double Cab</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>C15 SILVERADO 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>C15 SILVERADO 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C15 SILVERADO 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C15 SILVERADO 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>C15 SILVERADO 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C15 SILVERADO 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>F150 2.7L 2WD GVWR&gt;6649 LBS PAYLOAD PACKAGE</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>F150 2WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>F150 2WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>F150 2WD FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>F150 2WD FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>F150 3.5L 2WD GVWR&gt;7599 LBS PAYLOAD PACKAGE</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>F150 5.0L 2WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>C15 SIERRA 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>C15 SIERRA 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C15 SIERRA 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C15 SIERRA 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>C15 SIERRA 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C15 SIERRA 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>1500 4X2</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>1500 4X2</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>1500 4X2</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>1500 4X2</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>1500 HFE 4X2</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>1500 HFE 4X2</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>F150 Pickup 2WD</Name>
+    <Manufacturer>Roush</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>TUNDRA 2WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>TUNDRA 2WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>TUNDRA 2WD FFV</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>K15 SILVERADO 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>K15 SILVERADO 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>K15 SILVERADO 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>K15 SILVERADO 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>K15 SILVERADO 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>K15 SILVERADO 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>F150 2.7L 4WD GVWR&gt;6799 LBS PAYLOAD PACKAGE</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>F150 3.5L 4WD GVWR&gt;7599 LBS PAYLOAD PACKAGE</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>F150 4WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>F150 4WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>F150 4WD FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>F150 4WD FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>F150 5.0L 4WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>K15 SIERRA 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>K15 SIERRA 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>K15 SIERRA 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>K15 SIERRA 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>K15 SIERRA 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>K15 SIERRA 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>1500 4X4</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>1500 4X4</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>1500 4X4</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>1500 4X4</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>F150 Pickup 4WD</Name>
+    <Manufacturer>Roush</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>TUNDRA 4WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>TUNDRA 4WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>TUNDRA 4WD FFV</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>G2500 EXPRESS 2WD PASS MDPV</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>G3500 EXPRESS 2WD PASS MDPV</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>Transit T150 Wagon</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Transit T150 Wagon FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>G2500 SAVANA 2WD PASS MDPV</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>G3500 SAVANA 2WD PASS MDPV</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>XTS HEARSE</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>XTS LIMO</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>City Express Cargo Van</Name>
+    <Manufacturer>CHEVROLET</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Transit Connect Van 2WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Transit Connect Van 2WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>TRANSIT CONNECT VAN FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>TRANSIT CONNECT WAGON FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>TRANSIT CONNECT WAGON FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>TRANSIT CONNECT WAGON FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>TRANSIT CONNECT WAGON LWB FFV</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Transit Connect Wagon LWB FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>MKT LIVERY FWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Metris (Cargo Van)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Metris (Passenger Van)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>NV200 Cargo Van</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>NV200 NYC Taxi</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Promaster City</Name>
+    <Manufacturer>RAM</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>MKT LIVERY AWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C15 SILVERADO 2WD CAB CHASSIS</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>COLORADO CAB CHASSIS 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>K15 SILVERADO 4WD CAB CHASSIS</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>C15 SIERRA 2WD CAB CHASSIS</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>CANYON CAB CHASSIS 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>K15 SIERRA 4WD CAB CHASSIS</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Town &amp; Country</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Town &amp; Country</Name>
+    <Manufacturer>Chrysler</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Grand Caravan</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Grand Caravan</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>ODYSSEY 2WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Sedona</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Sedona SX</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Sedona SXL</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>QUEST</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>SIENNA</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>SIENNA AWD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>MDX 2WD</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>MDX 2WD</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>RDX 2WD</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>X3 sDrive 28i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>ENCORE</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>ENCORE</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>EQUINOX FWD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>EQUINOX FWD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>EQUINOX FWD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>TRAX</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Journey</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Journey</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>500X</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>500X</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>EDGE FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>EDGE FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>EDGE FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>ESCAPE FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>ESCAPE FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>ESCAPE FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>TERRAIN FWD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>TERRAIN FWD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>TERRAIN FWD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>CR-V 2WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>HR-V 2WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>HR-V 2WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>HR-V 2WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>PILOT 2WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>PILOT 2WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Santa Fe FWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Santa Fe Sport FWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Santa Fe Sport FWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Santa Fe Sport ULTIMATE FWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Santa Fe Ultimate FWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Tucson Eco FWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>Tucson FWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Tucson FWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>QX60 FWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>QX70 RWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Cherokee FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Cherokee FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Cherokee FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Compass FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Compass FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Compass FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Compass FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Patriot FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Patriot FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Patriot FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Patriot FWD</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>Renegade 4x2</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Renegade 4x2</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Sorento FWD</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Sorento FWD</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Sorento FWD</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Sportage FWD</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Sportage SX FWD</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>NX 200t</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>NX 300h</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>35</City>
+  </Car>
+  <Car>
+    <Name>RX 350</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>RX 450h</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>31</City>
+  </Car>
+  <Car>
+    <Name>MKC  FWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>MKX FWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>MKX FWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>CX-5 2WD</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>CX-5 2WD</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>GLC 300</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>OUTLANDER 2WD</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>OUTLANDER SPORT 2WD</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>OUTLANDER SPORT 2WD</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>OUTLANDER SPORT 2WD</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>PATHFINDER 2WD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>ROGUE FWD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>HIGHLANDER</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>HIGHLANDER</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>RAV4</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>RAV4 LE/XLE</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Tiguan</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>XC60 FWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>XC60 FWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>XC70 FWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>MDX 4WD</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>MDX 4WD</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>RDX 4WD</Name>
+    <Manufacturer>Acura</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Q5</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Q5</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Q5</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Q5 Hybrid</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>SQ5</Name>
+    <Manufacturer>Audi</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>X3 xDrive28d</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>X3 xDrive28i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>X3 xDrive35i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>X4 M40i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>X4 xDrive28i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>X4 xDrive35i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>ENCORE AWD</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>ENCORE AWD</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>ENVISION AWD</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>EQUINOX AWD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>EQUINOX AWD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>EQUINOX AWD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>TRAX AWD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Journey AWD</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>500X AWD</Name>
+    <Manufacturer>FIAT</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>EDGE AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>EDGE AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>EDGE AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>ESCAPE AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>ESCAPE AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>TERRAIN AWD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>TERRAIN AWD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>CR-V 4WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>HR-V 4WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>HR-V 4WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>PILOT 4WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>PILOT 4WD</Name>
+    <Manufacturer>Honda</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Santa Fe AWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Santa Fe Sport AWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Santa Fe Sport AWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Santa Fe Ultimate AWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Tucson AWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Tucson AWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Tucson Eco AWD</Name>
+    <Manufacturer>HYUNDAI MOTOR COMPANY</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>QX60 AWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>QX70 AWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Cherokee 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Cherokee 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Cherokee 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Cherokee 4x4 Active Drive II</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Cherokee 4x4 Active Drive II</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Cherokee Trailhawk 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Cherokee Trailhawk 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Compass 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Compass 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Compass 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Patriot 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Patriot 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Patriot 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Renegade 4x4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>Renegade 4x4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Wrangler 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Wrangler 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Wrangler Unlimited 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Wrangler Unlimited 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Sorento AWD</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Sorento AWD</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Sorento AWD</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Sorento AWD FE</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Sportage AWD</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Sportage SX AWD</Name>
+    <Manufacturer>KIA MOTORS CORPORATION</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Discovery Sport</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Range Rover Evoque</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>NX 200t AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>NX 200t AWD F SPORT</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>NX 300h AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>33</City>
+  </Car>
+  <Car>
+    <Name>RX 350 AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>MKC  AWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>MKC  AWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>MKX AWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>MKX AWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>CX-5 4WD</Name>
+    <Manufacturer>MAZDA</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>GLA 250 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>GLA 250 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>GLC 300 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>OUTLANDER 4WD</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>OUTLANDER 4WD</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>OUTLANDER SPORT 4WD</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>OUTLANDER SPORT 4WD</Name>
+    <Manufacturer>Mitsubishi Motors Corporation</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>PATHFINDER 4WD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>PATHFINDER 4WD PLATINUM</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>ROGUE AWD</Name>
+    <Manufacturer>NISSAN</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>Macan S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Macan Turbo</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>CROSSTREK</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>CROSSTREK</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>CROSSTREK HYBRID</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>FORESTER</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>FORESTER</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>24</City>
+  </Car>
+  <Car>
+    <Name>FORESTER</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>OUTBACK</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>OUTBACK</Name>
+    <Manufacturer>Subaru</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>RAV4 AWD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>RAV4 HYBRID AWD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>34</City>
+  </Car>
+  <Car>
+    <Name>RAV4 Limited AWD/SE AWD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Tiguan 4Motion</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>XC60 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>XC60 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>XC60 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>XC70 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>X5 sDrive35i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>X6 sDrive35i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>ENCLAVE FWD</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>ESCALADE 2WD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>SRX</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>C1500 SUBURBAN 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C1500 SUBURBAN 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C1500 TAHOE 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C1500 TAHOE 2WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>TRAVERSE FWD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Durango RWD</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Durango RWD</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Expedition 2WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Expedition EL 2WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>EXPLORER FFV 2WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>EXPLORER FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>EXPLORER FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Flex FWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>ACADIA FWD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>C1500 YUKON 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C1500 YUKON 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C1500 YUKON 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>C1500 YUKON XL 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C1500 YUKON XL 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>C1500 YUKON XL 2WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>QX60 Hybrid FWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>26</City>
+  </Car>
+  <Car>
+    <Name>QX80 2WD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Grand Cherokee 4X2</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Grand Cherokee 4X2</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>MKT FWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Navigator 2WD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Navigator L 2WD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>GLE 350</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>4RUNNER 2WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>SEQUOIA 2WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>XC90 FWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>X5 M</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>X5 xDrive 35d</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>X5 xDrive35i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>X5 xDrive50i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>X6 M</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>X6 xDrive35i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>X6 xDrive50i</Name>
+    <Manufacturer>BMW</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>ENCLAVE AWD</Name>
+    <Manufacturer>Buick</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>ESCALADE 4WD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>SRX AWD</Name>
+    <Manufacturer>Cadillac</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>K1500 SUBURBAN 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>K1500 SUBURBAN 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>K1500 TAHOE 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>K1500 TAHOE 4WD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>TRAVERSE AWD</Name>
+    <Manufacturer>Chevrolet</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Durango AWD</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Durango AWD</Name>
+    <Manufacturer>Dodge</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Expedition 4WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Expedition EL 4WD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>EXPLORER AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>EXPLORER AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>EXPLORER AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>EXPLORER FFV AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>FLEX AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>FLEX AWD</Name>
+    <Manufacturer>Ford</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>ACADIA AWD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>K1500 YUKON 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>K1500 YUKON 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>K1500 YUKON 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>K1500 YUKON XL 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>K1500 YUKON XL 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>K1500 YUKON XL 4WD</Name>
+    <Manufacturer>GMC</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>QX60 Hybrid AWD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>25</City>
+  </Car>
+  <Car>
+    <Name>QX80 4WD</Name>
+    <Manufacturer>INFINITI</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Grand Cherokee 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Grand Cherokee 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>Grand Cherokee 4X4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Grand Cherokee SRT8 4x4</Name>
+    <Manufacturer>Jeep</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>LR4</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Range Rover</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Range Rover</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Range Rover LWB</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Range Rover LWB</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Range Rover Sport</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Range Rover Sport</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Range Rover Sport TDV6</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>Range Rover TDV6</Name>
+    <Manufacturer>Land Rover</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>GX 460</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>LX 570</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>RX 450h AWD</Name>
+    <Manufacturer>LEXUS</Manufacturer>
+    <City>30</City>
+  </Car>
+  <Car>
+    <Name>MKT AWD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Navigator 4WD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>Navigator L 4WD</Name>
+    <Manufacturer>Lincoln</Manufacturer>
+    <City>15</City>
+  </Car>
+  <Car>
+    <Name>AMG G 63</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>12</City>
+  </Car>
+  <Car>
+    <Name>AMG G65</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>11</City>
+  </Car>
+  <Car>
+    <Name>AMG GL 63</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>AMG GLE 63</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>AMG GLE 63 S</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>AMG GLE 63 S (coupe)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>G 550</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>GL 350 BLUETEC 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>GL 450 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>GL 550 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>GLE 300 d 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>22</City>
+  </Car>
+  <Car>
+    <Name>GLE 350 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>GLE 350 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>GLE 350 d 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>23</City>
+  </Car>
+  <Car>
+    <Name>GLE 400 4MATIC</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>GLE 450 AMG (coupe)</Name>
+    <Manufacturer>Mercedes-Benz</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Cayenne</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>19</City>
+  </Car>
+  <Car>
+    <Name>Cayenne Diesel</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>Cayenne GTS</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>16</City>
+  </Car>
+  <Car>
+    <Name>Cayenne S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>Cayenne Turbo</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>Cayenne Turbo S</Name>
+    <Manufacturer>Porsche</Manufacturer>
+    <City>14</City>
+  </Car>
+  <Car>
+    <Name>4RUNNER 4WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>4RUNNER 4WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>HIGHLANDER AWD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>18</City>
+  </Car>
+  <Car>
+    <Name>HIGHLANDER HYBRID AWD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>27</City>
+  </Car>
+  <Car>
+    <Name>HIGHLANDER HYBRID AWD LE Plus</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>28</City>
+  </Car>
+  <Car>
+    <Name>LAND CRUISER WAGON 4WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>SEQUOIA 4WD</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>SEQUOIA 4WD FFV</Name>
+    <Manufacturer>TOYOTA</Manufacturer>
+    <City>13</City>
+  </Car>
+  <Car>
+    <Name>Touareg</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>21</City>
+  </Car>
+  <Car>
+    <Name>Touareg</Name>
+    <Manufacturer>Volkswagen</Manufacturer>
+    <City>17</City>
+  </Car>
+  <Car>
+    <Name>XC90 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>20</City>
+  </Car>
+  <Car>
+    <Name>XC90 AWD</Name>
+    <Manufacturer>Volvo</Manufacturer>
+    <City>22</City>
+  </Car>
+</Cars>

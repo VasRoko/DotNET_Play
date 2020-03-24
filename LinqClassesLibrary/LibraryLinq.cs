@@ -33,7 +33,5 @@ namespace LinqClassesLibrary
                 return result;
             }
         }
-    
-
     }
 }

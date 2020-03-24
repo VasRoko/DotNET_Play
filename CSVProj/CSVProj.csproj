@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\LinqClassesLibrary\LinqClassesLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="fuel.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

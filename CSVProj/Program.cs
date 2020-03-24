@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Reflection;
-using static CSVProj.MyExtensions;
+using LinqClassesLibrary;
 
 namespace CSVProj
 {
@@ -11,8 +8,8 @@ namespace CSVProj
     {
         static void Main(string[] args)
         {
-            var cars = ProcessFile<Car>("fuel.csv");
-            var manufacturers = ProcessFile<Manufacturer>("manufacturers.csv");
+            var cars = Helpers.ProcessFile<Car>("fuel.csv");
+            var manufacturers = Helpers.ProcessFile<Manufacturer>("manufacturers.csv");
 
             var queryGroupJoin = from manufacturer in manufacturers
                                  join car in cars on manufacturer.Name equals car.Division
@@ -99,145 +96,5 @@ namespace CSVProj
             //    Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
             //}
         }
-
-        public static IEnumerable<T> ProcessFile<T>(string path) where T : class, new()
-        {
-            var returnRecords = new List<T>();
-            var records = File.ReadAllLines(path).Where(line => line.Length > 1).Select(c => c);
-            var header = records.First().ToString();
-            foreach (var csvLine in records.Skip(1))
-            {
-                var entity = csvLine.ToEntity<T>(header);
-                returnRecords.Add(entity);
-            }
-            return returnRecords;
-        }
     } 
-
-    public static class MyExtensions
-    {
-        private static int FindEntityIndex(string entityName, string[] header)
-        {
-            if (string.IsNullOrEmpty(entityName) || !header.Any())
-                throw new ArgumentNullException($"{entityName} or {header} - can not be null");
-
-            int columnIndex = -1;
-            foreach (var item in header)
-            {
-                var columnName = item.Trim().Replace(" ", "").ToLower();
-                var normalizedEntityName = entityName.Trim().Replace(" ", "").ToLower();
-                if (columnName == normalizedEntityName || columnName.Contains(normalizedEntityName) || normalizedEntityName.StartsWith(columnName))
-                {
-                    columnIndex = Array.IndexOf(header, item);
-                    break;
-                }
-            }
-
-            return columnIndex;
-
-        }
-        private static T CreateType<T>(PropertyInfo[] props, string source, string header) where T : class, new()
-        {
-            T newType = new T();
-            var csvLine = source.Split(",");
-
-            foreach (var prop in props)
-            {
-                var index = FindEntityIndex(prop.Name, header.Split(","));
-                if (index > -1)
-                {
-                    var lineValue = csvLine[index];
-                    var propItem = newType.GetType().GetProperty(prop.Name);
-
-                    switch (prop.PropertyType.Name)
-                    {
-                        case "DateTime":
-                            propItem.SetValue(newType, DateTime.Now);
-                            break;
-                        case "GUID":
-                            propItem.SetValue(newType, Guid.Empty);
-                            break;
-                        case "String":
-                            propItem.SetValue(newType, lineValue);
-                            break;
-                        case "Int32":
-                            propItem.SetValue(newType, Convert.ToInt32(lineValue));
-                            break;
-                        case "Double":
-                            propItem.SetValue(newType, Convert.ToDouble(lineValue));
-                            break;
-                        default:
-                            propItem.SetValue(newType, null);
-                            break;
-                    }
-                };
-            }
-
-            return newType;
-        }
-        public static T ToEntity<T>(this string csvLine, string headerLine) where T : class, new()
-        {
-            var typeInstance = Activator.CreateInstance(typeof(T));
-            var typeProps = typeInstance.GetType().GetProperties();
-            return CreateType<T>(typeProps, csvLine, headerLine);
-        }
-        public static IEnumerable<T> RemoveDuplicates<T>(this IEnumerable<T> source)
-        {
-            HashSet<T> returnSource = new HashSet<T>(new ObjectComparer<T>());
-            foreach (var item in source)
-            {
-                if (source.Contains(item))
-                {
-                    returnSource.Add(item);
-                }
-            }
-            return returnSource;
-        }
-        // ----------------------------------------------------------------------------------- //
-        public class ObjectComparer<T> : IEqualityComparer<T>
-        {
-            public bool Equals(T x, T y)
-            {
-                var xName = x.GetType().GetProperty("Division").GetValue(x);
-                var yName = y.GetType().GetProperty("Division").GetValue(y);
-
-                return String.Equals(xName, yName);
-            }
-
-            public int GetHashCode(T obj)
-            {
-                return obj.GetType().GetProperty("Division").GetValue(obj).GetHashCode();
-            }
-        }
-        public class CarStatisctics
-        {
-            public CarStatisctics()
-            {
-                Max = Int32.MinValue;
-                Min = Int32.MaxValue;
-
-            }
-            public int Total { get; set; }
-            public int Max { get; set; }
-            public int Min { get; set; }
-            public int Count { get; set; }
-            public double Avg { get; set; }
-
-            public CarStatisctics Accumulate(Car c)
-            {
-                Count += 1;
-                Total += c.Comb;
-                Max = Math.Max(Max, c.Comb);
-                Min = Math.Min(Min, c.Comb);
-
-                return this;
-            }
-
-            public CarStatisctics Compute()
-            {
-                Avg = Total / Count;
-                return this;
-            }
-        };
-    }
 }
